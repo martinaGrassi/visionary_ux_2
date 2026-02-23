@@ -1,0 +1,5 @@
+{
+  "name": "UX Audit Tool",
+  "description": "A quick UX audit tool powered by Gemini AI that analyzes websites based on their URL.",
+  "requestFramePermissions": []
+}
